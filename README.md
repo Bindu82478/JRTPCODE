@@ -1,5 +1,31 @@
 # JRTPCODE
 
+
+working tree
+stagging area
+local
+remote
+
+working tree to stagging area ----git add 
+
+stagging area to local ---git commit
+
+local to remote --git push
+
+
+working tree to stagging area first give status it will reply what files havechanegs  if ew need to move to staggig area give git add. if  no we can revert cahnegs by git restore----git add 
+
+
+you givebn git add. changes moved to stagginga rae ,,and you dnt like files to move forwared and you want revert in stagging area we acn do gitstatus -staaged  then fiels will change from stagging reatto lworking are 
+
+and in working arae aalso we ahve to restore with git restore
+
+-if you dnt wnat to restore give git commit  to local and from local to remotr git push
+stagging area to local ---git commit
+
+local to remote --git push
+
+
 GIT ADD .
 GIT add file name ----- moving file sfrom working tree to stagging area
 
